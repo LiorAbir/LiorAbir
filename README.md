@@ -3,7 +3,7 @@
 
 
 
-<h2>😇 About me:</h2>
+<h2>✨ About me:</h2>
 <ul>
 <li> 🔭 Working on improving my skills </li>
 <li> 👨‍💻 Currently focusing on learning Angular </li>
